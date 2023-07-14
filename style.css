@@ -1,0 +1,59 @@
+body{
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    /* margin-right: 20px; */
+
+}
+h1 {
+    
+    text-size-adjust: 100px;
+    text-decoration: wavy;
+
+}
+h2{
+    color:purple;
+    background-color:whitesmoke;
+
+}
+#picture{
+    height: 140px;
+    mask-image: none;
+    align-self: self-end;
+    width: 100px;
+    border: 5px;
+    border-color: rgb(232, 22, 22);
+    border-radius:20px;
+    margin-left: 50px;
+    padding: 10px;
+
+}
+#tab1{
+    border-radius: 10px;
+    border-color:brown;
+    padding: 10px;
+    padding-left: 20px;
+    
+}
+#tab2{
+    border-radius: 10px;
+    border-color: blueviolet;
+    padding: 10px;
+    padding-left: 20px;
+
+}
+#tab3{
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-color: rgb(108, 61, 184);
+    padding: 10px;
+    padding-left: 20px;
+    
+}
+
+
+
+
+
+
+
