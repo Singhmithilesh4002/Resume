@@ -1,9 +1,13 @@
+
+*{
+     text-align : centre ;
+}
 body{
     margin-left: 100px;
     margin-top: 30px;
     margin-bottom: 30px;
     /* margin-right: 20px; */
-/*     text-align : centre ; */
+    text-align : centre ;
 
 }
 h1 {
