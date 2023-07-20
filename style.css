@@ -1,9 +1,9 @@
 
 *{
-      text-align: center;
+    text-align: center;
 }
 body{
-    margin-left: 100px;
+    margin-left:50px;
     margin-top: 30px;
     margin-bottom: 30px;
     /* margin-right: 20px; */
@@ -38,6 +38,7 @@ h2{
     border-color:brown;
     padding: 10px;
     padding-left: 20px;
+    margin-left: 165px;
     
 }
 #tab2{
@@ -45,6 +46,7 @@ h2{
     border-color: blueviolet;
     padding: 10px;
     padding-left: 20px;
+    margin-left: 130px;
 
 }
 #tab3{
@@ -53,7 +55,11 @@ h2{
     border-color: rgb(108, 61, 184);
     padding: 10px;
     padding-left: 20px;
+    margin-left: 80px;
     
+}
+header{
+    margin-left: 100px;
 }
 
 
